@@ -1,0 +1,79 @@
+
+
+
+@media all {
+
+    /* Flag */
+
+    [data-ox-flag-size]{
+        display: inline-block;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    [data-ox-flag-size="13"]{
+        height: 13px;
+        width: 26px;
+    }
+
+    /* Flag */
+    [data-ox-flag-size="22"]{
+        height: 22px;
+        width: 44px;
+    }
+
+    /* Flag */
+    [data-ox-flag-size="26"]{
+        height: 26px;
+        width: 52px;
+    }
+
+    /* Flag */
+    [data-ox-flag-size="32"]{
+        height: 32px;
+        width: 64px;
+    }
+
+    /* Flag */
+    [data-ox-flag-size="38"]{
+        height: 38px;
+        width: 76px;
+    }
+
+    /* Flag */
+    [data-ox-flag-size="42"]{
+        height: 42px;
+        width: 84px;
+    }
+
+    /* Flag */
+    [data-ox-flag-size="48"]{
+        height: 48px;
+        width: 96px;
+    }
+
+    /* Flag */
+    [data-ox-flag-size="52"]{
+        height: 52px;
+        width: 104px;
+    }
+
+    /* Flag */
+    [data-ox-flag-size="128"]{
+        height: 128px;
+        width: 256px;
+    }
+
+    /* Flag */
+    [data-ox-flag-size="180"]{
+        height: 180px;
+        width: 360px;
+    }
+
+
+
+
+    /* Country SVGs */
+    [data-ox-flag-svg="america"] {background-image: url("svg/america/america/america-a1960-v2.svg"); }
+
+}
