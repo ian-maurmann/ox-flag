@@ -5,3 +5,4 @@ ___
 
 
 - [america](./../src/svg/america/america/america.md)
+- [canada](./../src/svg/canada/canada/canada.md)

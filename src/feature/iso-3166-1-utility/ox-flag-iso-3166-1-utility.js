@@ -25,7 +25,8 @@ OxFlag.ISO_3166_1_utility.getCodes = function(){
 
     let codes = {
         // North America
-        'america' : ['United States of America', 'US', 'USA', '840']
+        'america' : ['United States of America' , 'US', 'USA', '840'],
+        'canada'  : ['Canada'                   , 'CA', 'CAN', '124']
     };
 
     return codes;

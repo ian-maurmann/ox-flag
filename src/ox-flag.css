@@ -75,5 +75,6 @@
 
     /* Country SVGs */
     [data-ox-flag-svg="america"] {background-image: url("svg/america/america/america-a1960-v2.svg"); }
+    [data-ox-flag-svg="canada"]  {background-image: url("svg/canada/canada/canada-a1965.svg"); }
 
 }
